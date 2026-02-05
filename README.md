@@ -6,7 +6,7 @@
 <!-- Banner (use relative path if in repo /assets/banner.png) -->
 <img src="./banner.png" alt="Banner" style="max-width:1000px; width:100%;"/>
 
-### Hi! I'm Vansh  👋
+### Hi! I'm Harshit  👋
 **Full Stack Developer** • **ML Engineer** • **Data Enthusiast**
 
 - 🔭 I build web apps, ML models & data pipelines  
@@ -16,7 +16,7 @@
 
 ### Get in touch
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connect-vanshverma/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:vermavansh1811@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:harshitjain.it27@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
 
 
@@ -45,14 +45,13 @@ Thanks for visiting — feel free to say hi 👋
 
 
 <!--
-**VanshSwaroopVerma/VanshSwaroopVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harshitj-2005/Harshit-Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 👨🏻‍💻 I am Vansh, a passionate Developer based in India
+- 👨🏻‍💻 I am Harshit, a passionate Developer based in India
 -😄 Life revolves around: Design, Develop and Deployment
--🎓 Currently pursuing BTech in Artificial Intelligenece & Data Science from JECRC Foundation, India
--🎓 And also pursuing BS Degree in Data Science & Application from IIT Madras, India
+-🎓 Currently pursuing BTech in Information Technology from JECRC Foundation, India
 -✨ Having immense love for exploring and creating tech domains
 -💻 Full Stack Developer + MERN Stack
 -♾️ Machine Learning Engineer / Data Engineer
