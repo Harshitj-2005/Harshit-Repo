@@ -15,7 +15,7 @@
 - ⚡ Fun: coffee, hiking, and experimenting with side projects
 
 ### Get in touch
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/connect-vanshverma/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/harshit-jain-it)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:harshitjain.it27@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
 
