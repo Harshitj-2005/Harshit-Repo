@@ -10,14 +10,12 @@
 **Full Stack Developer** • **ML Engineer** • **Data Enthusiast**
 
 - 🔭 I build web apps, ML models & data pipelines  
-- 🌱 Currently pursuing dual degree BTech in Artificial Intelligence & Data Science from JECRC Foundation, Indian
-- And BS Degree in Data science & Application from IIT Madras, India.
+- 🌱 Currently pursuing BTech in Artificial Intelligence & Data Science from JECRC Foundation, India
 - ⚡ Fun: coffee, hiking, and experimenting with side projects
 
 ### Get in touch
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/harshit-jain-it)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harshit-jain-it)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:harshitjain.it27@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
 
 
 ---
