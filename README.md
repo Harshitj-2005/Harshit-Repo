@@ -43,7 +43,7 @@ Thanks for visiting — feel free to say hi 👋
 
 
 <!--
-**Harshitj-2005/Harshit-Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Harshitj-2005/Harshitj-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
